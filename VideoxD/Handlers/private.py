@@ -25,7 +25,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(
                         text="Repository",
-                        url="https://github.com/VegetaxD/VideoStreamBot",
+                        url="https://github.com/kaal0408/VideoStreamBot",
                     )
                 ],
                 [
@@ -36,7 +36,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(
                         text="Support Chat/Demo",
-                        url="https://t.me/VideoStreamSupport",
+                        url="https://t.me/MeowUserbot",
                     )
                 ],
             ]
@@ -53,7 +53,7 @@ async def repo(client, message):
                 [
                     InlineKeyboardButton(
                         text="Repository",
-                        url="https://github.com/VegetaxD/VideoStreamBot",
+                        url="https://github.com/kaal0408/VideoStreamBot",
                     )
                 ]
             ]
